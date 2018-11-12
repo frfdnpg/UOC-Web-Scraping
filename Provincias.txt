@@ -1,0 +1,10 @@
+30,Murcia
+42,Soria
+48,Bizkaia
+45,Toledo
+43,Tarragona
+49,Zamora
+52,Melilla
+02,Albacete
+03,Alicante
+26,La
