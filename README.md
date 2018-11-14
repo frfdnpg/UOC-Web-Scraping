@@ -10,8 +10,11 @@ Para entender bien el trabajo presentado debo explicar algunas consideraciones:
 3.- Al final los archivos presentados fueron:
 
 -> 02 Practica Tipo de datos V1.pdf -> Respuestas relacionadas con “Lola Market”.
+
 -> Provincias-Final.py  y Provincias-Final.ipynb -> Código referido a la extraccion del sitio codigodpostales.com.
+
 -> Fichero de datos: Provincias.txt (conseguí insertar datos en el formato txt) y Provincias.csv (no conseguí insertar datos, me salían errores)
+
 -> En la carpeta “Otros Archivos”, guarde distintos ficheros que fui realizando a lo largo de este tiempo para realizar la práctica, pero que forman parte de mi formación y mis pruebas.
 
 Es la primera vez que programo y aunque tengo un alto interés por dominar esta materia, tengo una gran limitación con mi trabajo que me deja sólo una hora al día para atender mi estudio.
